@@ -1,0 +1,9 @@
+# Project exclude paths
+/target/
+.gitignore
+.idea/.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+APITesting.iml
+pom.xml
